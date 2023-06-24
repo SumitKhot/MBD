@@ -1,3 +1,6 @@
 [submodule "Tools"]
 	path = Tools
 	url = git@github.com:SumitKhot/MBD_Tools.git
+[submodule "MBD_Tools"]
+	path = MBD_Tools
+	url = git@github.com:SumitKhot/MBD_Tools.git
